@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>com.xzchaoo.mybatis.support</groupId>
+	<artifactId>mybatis-support</artifactId>
+	<version>1.0.0-SNAPSHOT</version>
+
+	<parent>
+		<groupId>com.xzchaoo.parent</groupId>
+		<artifactId>parent</artifactId>
+		<version>1.0.7-SNAPSHOT</version>
+	</parent>
+
+	<scm>
+		<connection>scm:git:git://github.com/xzchaoo/mybatissupport.git</connection>
+		<developerConnection>scm:git:ssh://github.com/xzchaoo/mybatissupport.git</developerConnection>
+		<url>http://github.com/xzchaoo/mybatissupport</url>
+	</scm>
+
+	<properties>
+		<java.version>1.5</java.version>
+	</properties>
+
+
+</project>
